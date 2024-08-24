@@ -1,0 +1,22 @@
+@media screen and (min-width: 1025px) {
+  div.goal {
+    display: flex;
+  }
+  svg {
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  div.team {
+    display: flex;
+  }
+  .number {
+    width: 120px;
+    font-size: 25px;
+    /* color: #fff; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
